@@ -22,3 +22,4 @@ var webpackConfig = merge(baseConfig, {
 delete webpackConfig.entry
 
 module.exports = webpackConfig
+
